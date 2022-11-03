@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/index.css"],"names":[],"mappings":"AAAA,MACI,mBAAyB,CACzB,YAAa,CACb,sBACJ","file":"main.dbc29fcf.chunk.css","sourcesContent":["#root {\n    margin: 100px auto 0 auto;\n    display: flex;\n    justify-content: center;\n}\n"]}
